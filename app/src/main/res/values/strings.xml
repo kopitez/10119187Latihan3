@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">monitory</string>
+
+    <string name="walkthrough_text">Monitory membantu Anda mengontrol HP Anak</string>
+    <string name="walkthrough_button_start">Mulai</string>
+
+    <string name="check_code_text_title">Kode Keluarga</string>
+    <string name="check_code_text_sub">Ketikkan Kode Keluarga yang Ayah Bunda miliki disini</string>
+    <string name="check_code_edit_hint_voucher">Tuliskan Kode Keluarga disini</string>
+    <string name="check_code_button_get_started">Masuk</string>
+    <string name="check_code_text_agreement">Dengan menekan tombol di bawah ini berarti Anda menyetujui Ketentuan Penggunan dan Kebijakan Data kami</string>
+    <string name="check_code_text_buy">Belum punya kode keluarga?</string>
+    <string name="check_code_button_buy">Beli Kode Keluarga Disini</string>
+
+    <string name="biodata_nama">Nama Panggilan Kamu</string>
+    <string name="hint_nama">Contoh : Alvin</string>
+    <string name="biodata_umur">Umur Kamu</string>
+    <string name="hint_umur">Contoh : 22</string>
+    <string name="next">Selanjutnya</string>
+    <string name="done_notif">Beres! Sekarang</string>
+    <string name="oke_button">Oke</string>
+</resources>
